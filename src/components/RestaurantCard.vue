@@ -13,7 +13,7 @@
 
 <script>
 export default {
-
+  name: 'RestaurantCard',
 }
 </script>
 
@@ -54,5 +54,4 @@ export default {
       }
     }
   }
-
 </style>
